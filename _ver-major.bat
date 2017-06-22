@@ -1,0 +1,1 @@
+npm run ver-major
